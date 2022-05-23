@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stack_test.dir/stack_test.cpp.o CMakeFiles/stack_test.dir/stack_test_autogen/mocs_compilation.cpp.o  -o stack_test /usr/lib/x86_64-linux-gnu/libQt5Test.so.5.9.5 libstack.a assertexcept/libassertexcept.a /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.9.5 

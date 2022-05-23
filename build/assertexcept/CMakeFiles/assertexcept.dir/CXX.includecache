@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ifeoluwa-shoyoye/cos340/stack/assertexcept/assertexcept.cpp
+assertexcept.h
+/home/ifeoluwa-shoyoye/cos340/stack/assertexcept/assertexcept.h
+sstream
+-
+
+/home/ifeoluwa-shoyoye/cos340/stack/assertexcept/assertexcept.h
+string
+-
+boost/assert.hpp
+-
+
+/home/ifeoluwa-shoyoye/cos340/stack/build/assertexcept/assertexcept_autogen/mocs_compilation.cpp
+

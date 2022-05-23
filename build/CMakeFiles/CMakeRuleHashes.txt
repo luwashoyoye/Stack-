@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+1f98122dc176e744595c5b8247841bf4 CMakeFiles/stack_autogen
+9d0d3afd21ad2b94399710ed10d34a01 CMakeFiles/stack_demo_autogen
+204feb2a085699b40419b2a3f9fae3db CMakeFiles/stack_test_autogen
+c684a15b937729871ccd7b18b73d039f assertexcept/CMakeFiles/assertexcept_autogen

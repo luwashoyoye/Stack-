@@ -1,0 +1,31 @@
+Start testing: May 03 13:56 EDT
+----------------------------------------------------------
+1/1 Testing: stackTest
+1/1 Test: stackTest
+Command: "/home/ifeoluwa-shoyoye/cos340/stack/build/stack_test"
+Directory: /home/ifeoluwa-shoyoye/cos340/stack/build
+"stackTest" start time: May 03 13:56 EDT
+Output:
+----------------------------------------------------------
+********* Start testing of StackTest *********
+Config: Using QtTest library 5.9.5, Qt 5.9.5 (x86_64-little_endian-lp64 shared (dynamic) release build; by GCC 7.5.0)
+PASS   : StackTest::initTestCase()
+PASS   : StackTest::constructor()
+PASS   : StackTest::top()
+PASS   : StackTest::top_xfail()
+PASS   : StackTest::push()
+PASS   : StackTest::pop()
+PASS   : StackTest::pop_xfail()
+PASS   : StackTest::empty()
+PASS   : StackTest::cleanupTestCase()
+Totals: 9 passed, 0 failed, 0 skipped, 0 blacklisted, 1ms
+********* Finished testing of StackTest *********
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"stackTest" end time: May 03 13:56 EDT
+"stackTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 03 13:56 EDT

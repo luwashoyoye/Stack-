@@ -1,0 +1,14 @@
+/home/ifeoluwa-shoyoye/cos340/stack/build/CMakeFiles/edit_cache.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/CMakeFiles/test.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/CMakeFiles/stack_test.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/CMakeFiles/rebuild_cache.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/CMakeFiles/stack.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/CMakeFiles/stack_demo.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/CMakeFiles/stack_test_autogen.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/CMakeFiles/stack_autogen.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/CMakeFiles/stack_demo_autogen.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/assertexcept/CMakeFiles/rebuild_cache.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/assertexcept/CMakeFiles/edit_cache.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/assertexcept/CMakeFiles/assertexcept.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/assertexcept/CMakeFiles/test.dir
+/home/ifeoluwa-shoyoye/cos340/stack/build/assertexcept/CMakeFiles/assertexcept_autogen.dir
